@@ -73,10 +73,34 @@ body .entries .entry:nth-child(2n) .title.big:before {
   transform: translate(-8px, -50%);
 }
 
+a:link {
+  color: #fadbd8; /* light grayish red; was 1a73e8, vivid blue */
+}
+a:visited {
+  color: #6a0dad; /* Dark violet */
+}
+a:active {
+  color: #ff4500; /* Pure (or mostly pure) orange) */
+}
+
+/*
+a:link {
+}
+a:visited {
+}
+a:focus {
+}
+a:hover {
+}
+a:active {
+}
+*/
+/*
 a {
   display: inline-block;
-  background: #6699cc;
-  color: white;
+  background: #fadbd8;
+  color: red;
+  font-family: Arial;
   padding: 5px; 10px;
 }
-  
+*/
