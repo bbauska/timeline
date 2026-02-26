@@ -77,7 +77,7 @@ a:link {
   color: #fadbd8; /* light grayish red; was 1a73e8, vivid blue */
 }
 a:visited {
-  color: #6a0dad; /* Dark violet */
+  color: #d9adf9; /* very soft violet, was: 6a0dad Dark violet */
 }
 a:active {
   color: #ff4500; /* Pure (or mostly pure) orange) */
